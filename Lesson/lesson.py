@@ -17,3 +17,5 @@ print()
 #How would you print the list in reverse order?
 print()
 
+names = ['Fela', 'Felix', 'Andy', 'Elliott','Brook']
+print(names[0])
